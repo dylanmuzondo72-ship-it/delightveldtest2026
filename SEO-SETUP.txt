@@ -1,0 +1,18 @@
+DELIGHT VELD SEO SETUP
+
+Included:
+- Optimized title and meta description
+- Canonical URL
+- Open Graph and Twitter social cards
+- Organization, LocalBusiness, WebSite, WebPage and Service structured data
+- robots.txt
+- XML sitemap with image entries
+- Web app manifest and icons
+- Custom 404 page
+- Descriptive image alt text
+
+After deployment:
+1. Add https://www.delightveld.com/sitemap.xml to Google Search Console.
+2. Verify the official business name, address and phone numbers.
+3. Replace the Vercel URL with the final custom domain in index.html, robots.txt and sitemap.xml when a domain is connected.
+4. Add genuine project photographs and testimonials as they become available.
