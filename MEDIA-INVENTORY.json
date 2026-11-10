@@ -1,0 +1,80 @@
+{
+  "base_source": "delightveldtest2026-main.zip",
+  "gallery": {
+    "count": 20,
+    "source": "delight veld files.pdf",
+    "source_pages": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      12,
+      13,
+      16,
+      18,
+      19,
+      20,
+      22,
+      23,
+      25,
+      27,
+      29,
+      31,
+      37
+    ],
+    "files": [
+      "assets/gallery/development-01.jpg",
+      "assets/gallery/development-02.jpg",
+      "assets/gallery/development-03.jpg",
+      "assets/gallery/development-04.jpg",
+      "assets/gallery/development-05.jpg",
+      "assets/gallery/development-06.jpg",
+      "assets/gallery/development-07.jpg",
+      "assets/gallery/development-08.jpg",
+      "assets/gallery/development-09.jpg",
+      "assets/gallery/development-10.jpg",
+      "assets/gallery/development-11.jpg",
+      "assets/gallery/development-12.jpg",
+      "assets/gallery/development-13.jpg",
+      "assets/gallery/development-14.jpg",
+      "assets/gallery/development-15.jpg",
+      "assets/gallery/development-16.jpg",
+      "assets/gallery/development-17.jpg",
+      "assets/gallery/development-18.jpg",
+      "assets/gallery/development-19.jpg",
+      "assets/gallery/development-20.jpg"
+    ],
+    "note": "These are 20 selected real development photographs extracted from the supplied PDF. They replace the unavailable 20 Cloudflare image objects; original Cloudflare object names could not be matched."
+  },
+  "videos": [
+    {
+      "file": "assets/videos/homepage-aerial.mp4",
+      "source_file": "1000127629.mp4",
+      "duration_seconds": 83.9839,
+      "codec": "H.264/AAC",
+      "resolution": "1920x1080"
+    },
+    {
+      "file": "assets/videos/development-overview.mp4",
+      "source_file": "1000127632.mp4",
+      "duration_seconds": 20.553,
+      "codec": "H.264/AAC",
+      "resolution": "1920x1080"
+    }
+  ],
+  "changes": [
+    "Preserved the current repository's page content, design, logo, sections and metadata.",
+    "Changed gallery to local copies of 20 actual development photographs extracted from the supplied PDF.",
+    "Changed both video sources to the two supplied local MP4 files.",
+    "Replaced the fragile development-video preload/play reload handler with native controls.",
+    "Added a visible play fallback for the hero video when autoplay is blocked.",
+    "Retained mobile navigation, WhatsApp contact menu, quote form and image lightbox handlers."
+  ],
+  "verification": {
+    "live_browser_test": false,
+    "local_media_files_included": true
+  }
+}
